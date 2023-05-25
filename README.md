@@ -4,7 +4,7 @@
 <h3> 👨‍💻: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Cursando **Informática** no IFRN.
+- 🎓 &nbsp; Cursando **Tecnologia da Informação** na UFRN.
 - 🌱 &nbsp; Aprendendo mais sobre **ReactJS e NodeJS**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
