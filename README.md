@@ -38,7 +38,7 @@
 
 <br/>
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+<h3> 🌎: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Alesandro Silva](https://img.shields.io/badge/-Alesandro%20Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/alesandro-silva)
 [![Gmail Badge](https://img.shields.io/badge/-alesandrosilva2004@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:alesandrosilva2004@gmail.com)
