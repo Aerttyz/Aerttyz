@@ -19,6 +19,7 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
+  ![C++](https://img.shields.io/badge/-C-333333?style=flat&logo=c++)
 
 **DevOps**
 
