@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Cursando **Tecnologia da Informação** na UFRN.
-- 🌱 &nbsp; Aprendendo mais sobre **C e C++**.
+- 🌱 &nbsp; Aprendendo mais sobre **C# e .NET**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
