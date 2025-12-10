@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Alesandro Alex!
+# 👋 Olá, eu sou Alesandro Silva!
 
 ## 🚀 Sobre mim
 🎓 Sou estudante de **Tecnologia da Informação**  
