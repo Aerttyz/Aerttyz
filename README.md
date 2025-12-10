@@ -1,63 +1,47 @@
+# 👋 Olá, eu sou Alesandro Alex!
 
+## 🚀 Sobre mim
+🎓 Sou estudante de **Tecnologia da Informação**  
+💻 Atualmente estou aprendendo **SvelteKit**  
+🧠 Explorando novas tecnologias e desenvolvendo soluções de software  
+📚 Interesse forte em backend, arquitetura de software e machine learning  
 
+---
 
-<h3> 👨‍💻: &nbsp;Sobre mim </h3>
+## 🛠️ Hard Skills
 
+### Backend & Frontend
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Cursando **Tecnologia da Informação** na UFRN.
-- 🌱 &nbsp; Aprendendo mais sobre **C# e .NET**.
+### Python & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)
 
+---
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+## ⚙️ DevOps & Ferramentas
 
-**Aplicações e Dados**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 
-  
-  
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-</div>
+---
 
+## 📫 Contato
 
-**DevOps**
+📧 **Email:** alesandrosilva2004@gmail.com 
+💼 **LinkedIn:** https://linkedin.com/in/alesandro-silva 
 
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+---
 
-**Ferramentas de Desenvolvimento**
+## 👀 GitHub
 
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-  ![MySQL Workbench](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
-  
+![Followers](https://img.shields.io/github/followers/Aerttyz?label=Followers&style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/Aerttyz?label=Stars&style=for-the-badge)
 
-<br/>
-<div>
-<a href="https://github.com/Aerttyz">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aerttyz&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+---
 
-<br/>
-
-<h3> 🌎: &nbsp;Onde me encontrar: </h3> 
-
-[![Linkedin: Alesandro Silva](https://img.shields.io/badge/-Alesandro%20Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/alesandro-silva)
-[![Gmail Badge](https://img.shields.io/badge/-alesandrosilva2004@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:alesandrosilva2004@gmail.com)
-[![GitHub Alesandro]( https://img.shields.io/github/followers/Aerttyz?label=follow&style=social)](https://github.com/Aerttyz)
+⭐️ *Sempre aberto a aprender, colaborar e criar coisas legais!*  
